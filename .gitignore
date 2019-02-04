@@ -1,0 +1,14 @@
+*.exe
+/.idea
+*.ini
+*.py
+*.pyc 
+*.sql
+*.js
+*.html 
+*.db 
+*.css
+*.jpg
+*.png
+/Languages/Python/*
+/Languages/JS/*
